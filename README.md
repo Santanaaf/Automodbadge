@@ -28,6 +28,8 @@ Etape 3: Crée 15 serveurs
 Etape 4: Sur ces 15 serveurs ajoutez le bot et faites la commande !automod
 Etape 5: Attendez au moin 12h 
 ```
+![image](https://user-images.githubusercontent.com/131973782/234865613-76d45689-a0fe-4fc3-828f-85ecadff7e4d.png)
+
 # <a id="config"></a>⚙ » Config
 
 If you want to change the config, open up [config.json](https://discord.gg/bahnnmon reuf) and locate it at the top. There you can configure the following:
